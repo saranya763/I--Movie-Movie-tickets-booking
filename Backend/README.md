@@ -84,3 +84,6 @@ The seed script includes:
 - 3 cinema locations
 - Multiple showtimes
 - 2 sample users (regular user and admin)
+
+## Demo Video
+You can watch the demo of the iMovies booking system here: [Demo Video](https://youtu.be/MmM2CeGxlYU)
